@@ -1,1 +1,5 @@
 # WebDesign-HTML5CSS
+This is the first draft of a responsive webpage from the textbook Responsive Web Design with HTML5 and CSS. 
+This is chapter one example. There weren't any issues that arose (I pretty much followed along from the Github file, while reading in the book). 
+One thing that stood out was the Media query. The way I understand it: set the styles for the smallest screen you are creating for (those are the base styles for the page); then the elements that will change on larger screens will be styled in a media query (directives in CSS that allow us to isolate CSS rules to certain environment conditions).
+FYI: There are a few different Medial Queries. In this example, the only type of media query used is: a minimum-width media query. CSS rules within this type of media query only get applied if the viewpoint is or exceeds a certain width.
